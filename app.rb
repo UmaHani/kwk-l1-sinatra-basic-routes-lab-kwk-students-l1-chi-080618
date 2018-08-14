@@ -11,7 +11,7 @@ class App < Sinatra::Base
       "My hometown is Hyderabad."
     end 
     get '/song' do 
-      "My favorite song is Lakdi Ki Kadi"
+      "My favorite song is Lakdi Ki Kathi."
     end 
 end
 
